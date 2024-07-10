@@ -23,10 +23,12 @@ Your new recipe page should have the following content:
 
 Example:
 
-`<ul>
+```
+<ul>
     <li><a href="recipes/yourrecipe.html">Recipe Title 1</a></li>
     <li><a href="recipes/yourrecipe.html">Recipe Title 2</a></li>
     <li><a href="recipes/yourrecipe.html">Recipe Title 3</a></li>
-  </ul>`
+</ul>
+```
 
 Your links won’t be flashy, but for now, just focus on building them out.
